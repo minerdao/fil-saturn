@@ -28,9 +28,11 @@ node-main Failed to register Error Not enough CPU cores. Required: 6, current: 2
 解决方案：官方计算问题，已经处理！
  --------------------------------------------------------------------------
  
- 问题2：
+ 问题2：不通过后不会停止程序 docker重复重启  浪费流量
  
- 解决方案：
+ 解决方案：https://github.com/filecoin-saturn/L1-node/issues/81
+ 即将修复： https://github.com/filecoin-saturn/L1-node/commit/4694b96d963bf2557fd8a6d280fd8350f68327f6
+ 
  ---------------------------------------------------------------
  
  问题3：
