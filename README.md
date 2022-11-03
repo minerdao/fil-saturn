@@ -38,5 +38,6 @@ node-main Failed to register Error Not enough CPU cores. Required: 6, current: 2
  问题3：节点挂了邮箱提醒希望大佬提供--可以参考https://github.com/lyjmry/cycles-
          做好后奖励10Fil 请留下打赏地址
  
- 解决方案：
+ 解决方案：https://github.com/minerdao/fil-saturn-monitor
+ 请作者留下fil地址
  -------------------------------------------------------------
