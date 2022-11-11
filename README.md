@@ -39,7 +39,8 @@ node-main Failed to register Error Not enough CPU cores. Required: 6, current: 2
          做好后奖励10Fil 请留下打赏地址
  
  解决方案：https://github.com/minerdao/fil-saturn-monitor
- 请作者留下fil地址
+ 最新版本：https://github.com/qianhh/saturn-monitor
+ Fil Address: f14nowmvdhutcr3zbbymmzqbkrtzy6r3gveqscp4q
  
 -------------------------------------------------------------
 
